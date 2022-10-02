@@ -1,0 +1,4 @@
+- Currently studying Information Techlonogy at FAETERJ.
+- I’m currently learning basic fundamentals of C/C++ and Linux. 
+- I’m looking to collaborate on any problems the community of Techlonogy gonna have if they're capable for me.
+- Contact by: lipeps61@gmail.com
