@@ -4,6 +4,6 @@
 - Residente em Tic Software-Serratec. 
 - Contato: lipeps61@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeSutter&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSutter&layout=compact&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeSutter&show_icons=true&theme=white) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSutter&layout=compact&theme=dark)
 
 
