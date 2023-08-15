@@ -1,4 +1,4 @@
-<h1 align="center">Opa, Felipe Sutter aqui!</h1>
+<h1 align="center"> Opa, Felipe Sutter aqui! 👋</h1>
 
 - Atualmente estudando TIC na FAETERJ.
 - Residente em Tic Software-Serratec. 
