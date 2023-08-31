@@ -1,9 +1,9 @@
 <h1 align="center"> Opa, Felipe Sutter aqui! 👋</h1>
 <br>
 <div align="center">  
- Atualmente estudando TIC na FAETERJ.<br>
- Residente em Tic Software-Serratec. <br>
- Contato: lipeps61@gmail.com <br><br>
+ 📚 Atualmente estudando TIC na FAETERJ.<br>
+ 👨‍💻 Residente em TIC Software-Serratec. <br>
+ 📧 Contato: lipeps61@gmail.com <br><br>
 
  
    <a href="https://github.com/FelipeSutter"> 
