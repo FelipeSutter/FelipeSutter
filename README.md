@@ -1,5 +1,5 @@
 <h1 align="center"> Opa, Felipe Sutter aqui! 👋</h1> 
-<br>
+<br> 
 <div align="center">  
  📚 Atualmente estudando TIC na FAETERJ.<br>
  👨‍💻 Residente em TIC Software-Serratec. <br>
