@@ -1,4 +1,4 @@
-<h1 align="center"> Opa, Felipe Sutter aqui! 👋</h1> 
+<h1 align="center"> Opa, Felipe Sutter aqui! 👋</h1>
 <br> 
 <div align="center">  
  📚 Atualmente estudando TIC na FAETERJ.<br>
