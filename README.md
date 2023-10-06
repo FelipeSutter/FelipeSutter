@@ -6,7 +6,16 @@
  📧 Contato: lipeps61@gmail.com <br><br>
       <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=FelipeSutter&show_icons=true&count_private=true&hide_border=true&title_color=900D3&icon_color=FFBF00&text_color=F0F8FF&bg_color=000000" alt="Felipe's Github Stats" /> 
       <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSutter&layout=compact&hide_border=true&title_color=900D3&text_color=F0F8FF&bg_color=000000" alt="Felipe's Most Used Languages" />
-</div>
+ </div>
+ 
+ <h2>Técnologias</h2>
+ <div align="center">
+  
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+ </div>
+ 
+
 
 
 
