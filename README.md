@@ -8,7 +8,7 @@
       <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSutter&layout=compact&hide_border=true&title_color=900D3&text_color=F0F8FF&bg_color=000000" alt="Felipe's Most Used Languages" />
  </div>
  
- <h2>Técnologias</h2>
+ <h2>Tecnologias</h2>
  <div align="center">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
