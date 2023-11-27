@@ -1,7 +1,7 @@
 <h1 align="center"> Opa, Felipe Sutter aqui! 👋</h1>
 <br> 
 <div align="center">  
- 📚 Atualmente estudando TIC na FAETERJ.<br>
+ 📚 Atualmente estudando TIC na FAETERJ. <br>
  👨‍💻 Residente em TIC Software-Serratec. <br>
  📧 Contato: <a href="#">lipeps61@gmail.com</a><br><br>
       <img width="49%" height="210px" src="https://github-readme-stats.vercel.app/api?username=FelipeSutter&show_icons=true&count_private=true&hide_border=true&title_color=9000D3&icon_color=FFBF00&text_color=F0F8FF&bg_color=000000" alt="Felipe's Github Stats" /> 
