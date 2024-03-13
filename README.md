@@ -4,8 +4,8 @@
  📚 Atualmente estudando TIC na FAETERJ. <br>
  👨‍💻 Desenvolvedor FullStack<br>
  📧 Contato: <a href="#">lipeps61@gmail.com</a><br><br>
-      <img width="49%" height="210px" src="https://github-readme-stats.vercel.app/api?username=FelipeSutter&show_icons=true&count_private=true&hide_border=true&title_color=9000D3&icon_color=FFBF00&text_color=F0F8FF&bg_color=111111" alt="Felipe's Github Stats" /> 
-      <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSutter&layout=compact&hide_border=true&title_color=9000D3&text_color=F0F8FF&bg_color=111111" alt="Felipe's Most Used Languages" />
+      <img width="49%" height="210px" src="https://github-readme-stats.vercel.app/api?username=FelipeSutter&show_icons=true&count_private=true&hide_border=false&title_color=9000D3&icon_color=FFBF00&text_color=F0F8FF&bg_color=111111" alt="Felipe's Github Stats" /> 
+      <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSutter&layout=compact&hide_border=false&title_color=9000D3&text_color=F0F8FF&bg_color=111111" alt="Felipe's Most Used Languages" />
  </div>
  
  <h2>Tecnologias</h2>
